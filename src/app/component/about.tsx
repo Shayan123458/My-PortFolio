@@ -7,14 +7,14 @@ const About = () => {
       <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
       </div>
       <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-        <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium  text-yellow-900 justify-center">
+        <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium  text-yellow-900">
           About Me
         </h1>
         <p className="mb-5 leading-relaxed">
          I am Shayan Ahmed Studied at DJ Sindh Govt. Science College in Pre-medical.
         </p>
         <p className="mb-5 leading-relaxed">
-         I've also enrolled in Generative AI Governor Initiative Program at Governor House. 
+         I have also enrolled in Generative AI Governor Initiative Program at Governor House. 
         </p>
       
 
